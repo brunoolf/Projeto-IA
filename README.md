@@ -89,7 +89,7 @@ Tempo de execução em CPU Intel típica: 10 a 15 minutos no total. Em Colab gra
 
 ## Apresentação em vídeo
 
-[Link do YouTube — a ser inserido após gravação]
+https://youtu.be/y5dbSnP9GEg
 
 ## Referências principais
 
