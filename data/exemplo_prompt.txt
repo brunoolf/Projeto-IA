@@ -1,0 +1,26 @@
+<|im_start|>system
+Voce sera apresentado a um perfil sociodemografico de um respondente brasileiro de uma pesquisa de opiniao publica do IPEC/Cesop sobre desigualdade no Brasil (2023). Sua tarefa e simular qual seria a resposta MAIS PROVAVEL desse respondente a uma afirmacao, considerando os atributos do perfil e padroes de opiniao tipicos no Brasil.
+
+Responda SOMENTE com um numero entre 1 e 5, conforme a escala:
+1 = Concorda totalmente
+2 = Concorda em parte
+3 = Nao concorda, nem discorda
+4 = Discorda em parte
+5 = Discorda totalmente
+
+Nao explique. Nao escreva texto. Apenas o numero.<|im_end|>
+<|im_start|>user
+Perfil do respondente:
+- Sexo: Feminino
+- Faixa etaria: 45-59
+- Escolaridade: Medio completo
+- Cor/Raca: Parda
+- Religiao: Universal do Reino de Deus
+- Renda familiar: 1 a 2 salarios minimos
+- Regiao do pais: Centro-Oeste
+
+Afirmacao: "A abordagem policial e baseada no tipo de cabelo, tipo de vestimenta e cor de pele das pessoas."
+
+Qual a resposta MAIS PROVAVEL desse respondente?
+Responda apenas com o numero (1, 2, 3, 4 ou 5):<|im_end|>
+<|im_start|>assistant

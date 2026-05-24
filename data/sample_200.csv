@@ -1,0 +1,201 @@
+sexo,idade,faixa_idade,escolaridade,raca_cor,religiao,renda_familiar,regiao,P6A,P6C
+Feminino,49.0,45-59,Medio completo,Parda,Universal do Reino de Deus,1 a 2 salarios minimos,Centro-Oeste,1,1
+Feminino,50.0,45-59,Superior completo,Branca,Catolica,2 a 5 salarios minimos,Centro-Oeste,1,5
+Feminino,30.0,25-34,Medio completo,Parda,"Ateu, sem religiao",2 a 5 salarios minimos,Centro-Oeste,5,1
+Feminino,36.0,35-44,Medio completo,Branca,Outras Evangelicas,2 a 5 salarios minimos,Centro-Oeste,2,2
+Feminino,45.0,45-59,Medio completo,Parda,Catolica,2 a 5 salarios minimos,Centro-Oeste,5,5
+Feminino,38.0,35-44,Medio completo,Branca,Catolica,Ate 1 salario minimo,Centro-Oeste,1,1
+Feminino,60.0,60+,Fundamental incompleto,Parda,Catolica,1 a 2 salarios minimos,Centro-Oeste,2,4
+Feminino,20.0,18-24,Medio completo,Branca,Catolica,Ate 1 salario minimo,Centro-Oeste,1,2
+Feminino,60.0,60+,Medio completo,Parda,Catolica,Ate 1 salario minimo,Nordeste,5,4
+Feminino,33.0,25-34,Superior completo,Parda,Religioso sem religiao especifica/Agnostico,2 a 5 salarios minimos,Nordeste,2,1
+Feminino,21.0,18-24,Superior incompleto,Parda,"Ateu, sem religiao",Ate 1 salario minimo,Nordeste,1,1
+Feminino,46.0,45-59,Fundamental completo,Parda,Outras religioes,Ate 1 salario minimo,Nordeste,1,1
+Feminino,36.0,35-44,Fundamental incompleto,Branca,Catolica,1 a 2 salarios minimos,Nordeste,1,1
+Feminino,25.0,25-34,Medio incompleto,Branca,Catolica,Ate 1 salario minimo,Nordeste,4,1
+Feminino,39.0,35-44,Medio completo,Branca,"Ateu, sem religiao",Ate 1 salario minimo,Nordeste,5,1
+Feminino,64.0,60+,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Nordeste,4,5
+Feminino,63.0,60+,Medio completo,Amarela,Catolica,1 a 2 salarios minimos,Nordeste,5,5
+Feminino,32.0,25-34,Medio completo,Parda,Catolica,Ate 1 salario minimo,Nordeste,4,2
+Feminino,50.0,45-59,Fundamental incompleto,Parda,Assembleia de Deus,Ate 1 salario minimo,Nordeste,5,5
+Feminino,18.0,18-24,Superior incompleto,Parda,Outras Evangelicas,Ate 1 salario minimo,Nordeste,2,2
+Feminino,51.0,45-59,Fundamental incompleto,Parda,Catolica,Ate 1 salario minimo,Nordeste,5,1
+Feminino,52.0,45-59,Fundamental incompleto,Parda,Catolica,Ate 1 salario minimo,Nordeste,2,2
+Feminino,33.0,25-34,Superior incompleto,Parda,Catolica,Ate 1 salario minimo,Nordeste,4,1
+Feminino,48.0,45-59,Fundamental incompleto,Parda,Catolica,2 a 5 salarios minimos,Nordeste,4,1
+Feminino,65.0,60+,Fundamental incompleto,Branca,Assembleia de Deus,1 a 2 salarios minimos,Nordeste,4,1
+Feminino,49.0,45-59,Medio completo,Parda,Catolica,Ate 1 salario minimo,Nordeste,1,1
+Feminino,65.0,60+,Fundamental incompleto,Preta,Catolica,Ate 1 salario minimo,Nordeste,2,2
+Feminino,23.0,18-24,Fundamental completo,Parda,Catolica,1 a 2 salarios minimos,Nordeste,4,2
+Feminino,60.0,60+,Fundamental incompleto,Branca,Assembleia de Deus,1 a 2 salarios minimos,Nordeste,2,4
+Feminino,45.0,45-59,Superior completo,Branca,Assembleia de Deus,1 a 2 salarios minimos,Nordeste,5,1
+Feminino,23.0,18-24,Medio completo,Parda,Assembleia de Deus,Ate 1 salario minimo,Nordeste,5,4
+Feminino,30.0,25-34,Medio completo,Parda,Assembleia de Deus,Ate 1 salario minimo,Nordeste,2,1
+Feminino,39.0,35-44,Superior completo,Preta,Catolica,1 a 2 salarios minimos,Nordeste,1,1
+Feminino,23.0,18-24,Superior incompleto,Preta,"Ateu, sem religiao",Ate 1 salario minimo,Norte,1,1
+Feminino,30.0,25-34,Fundamental incompleto,Parda,Catolica,1 a 2 salarios minimos,Norte,1,1
+Feminino,70.0,60+,Fundamental incompleto,Parda,Catolica,1 a 2 salarios minimos,Norte,3,1
+Feminino,25.0,25-34,Medio completo,Amarela,"Ateu, sem religiao",1 a 2 salarios minimos,Norte,5,2
+Feminino,25.0,25-34,Medio completo,Parda,Outras Evangelicas,Ate 1 salario minimo,Norte,2,3
+Feminino,44.0,35-44,Medio completo,Branca,Catolica,2 a 5 salarios minimos,Norte,4,5
+Feminino,45.0,45-59,Medio incompleto,Parda,Assembleia de Deus,1 a 2 salarios minimos,Norte,5,5
+Feminino,55.0,45-59,Medio completo,Parda,Catolica,Ate 1 salario minimo,Norte,2,1
+Feminino,59.0,45-59,Fundamental incompleto,Preta,Espirita/Kardecista,1 a 2 salarios minimos,Sudeste,2,2
+Feminino,24.0,18-24,Superior incompleto,Branca,"Ateu, sem religiao",2 a 5 salarios minimos,Sudeste,1,1
+Feminino,23.0,18-24,Medio completo,Branca,Assembleia de Deus,2 a 5 salarios minimos,Sudeste,1,2
+Feminino,48.0,45-59,Superior completo,Branca,Catolica,2 a 5 salarios minimos,Sudeste,3,3
+Feminino,35.0,35-44,Superior incompleto,Branca,"Ateu, sem religiao",Nao respondeu,Sudeste,1,1
+Feminino,57.0,45-59,Fundamental completo,Branca,Evangelho Quadrangular,5 a 10 salarios minimos,Sudeste,5,1
+Feminino,55.0,45-59,Fundamental incompleto,Parda,Evangelica nao especificada,2 a 5 salarios minimos,Sudeste,1,1
+Feminino,66.0,60+,Superior completo,Branca,Catolica,5 a 10 salarios minimos,Sudeste,2,1
+Feminino,54.0,45-59,Fundamental incompleto,Parda,Assembleia de Deus,2 a 5 salarios minimos,Sudeste,1,1
+Feminino,35.0,35-44,Superior incompleto,Branca,Assembleia de Deus,10 a 20 salarios minimos,Sudeste,1,1
+Feminino,35.0,35-44,Medio incompleto,Parda,Catolica,Ate 1 salario minimo,Sudeste,5,2
+Feminino,34.0,25-34,Fundamental incompleto,Parda,Assembleia de Deus,1 a 2 salarios minimos,Sudeste,1,2
+Feminino,68.0,60+,Fundamental incompleto,Branca,Catolica,1 a 2 salarios minimos,Sudeste,3,3
+Feminino,51.0,45-59,Medio completo,Parda,Catolica,Ate 1 salario minimo,Sudeste,2,1
+Feminino,41.0,35-44,Medio completo,Parda,Catolica,Ate 1 salario minimo,Sudeste,1,1
+Feminino,47.0,45-59,Fundamental completo,Branca,Assembleia de Deus,1 a 2 salarios minimos,Sudeste,5,1
+Feminino,39.0,35-44,Fundamental incompleto,Parda,Assembleia de Deus,1 a 2 salarios minimos,Sudeste,1,4
+Feminino,41.0,35-44,Superior incompleto,Branca,"Ateu, sem religiao",5 a 10 salarios minimos,Sudeste,5,1
+Feminino,41.0,35-44,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Sudeste,5,1
+Feminino,56.0,45-59,Fundamental completo,Parda,Catolica,Ate 1 salario minimo,Sudeste,1,1
+Feminino,37.0,35-44,Superior incompleto,Branca,"Ateu, sem religiao",1 a 2 salarios minimos,Sudeste,1,3
+Feminino,42.0,35-44,Superior completo,Branca,"Oriental (Budismo, Islamismo)",10 a 20 salarios minimos,Sudeste,2,1
+Feminino,38.0,35-44,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Sudeste,1,4
+Feminino,32.0,25-34,Superior completo,Parda,Outras Evangelicas,2 a 5 salarios minimos,Sudeste,2,5
+Feminino,49.0,45-59,Fundamental completo,Branca,Religioso sem religiao especifica/Agnostico,2 a 5 salarios minimos,Sudeste,1,1
+Feminino,26.0,25-34,Medio completo,Parda,"Ateu, sem religiao",Ate 1 salario minimo,Sudeste,4,1
+Feminino,55.0,45-59,Fundamental incompleto,Indigena,Evangelica nao especificada,Ate 1 salario minimo,Sudeste,2,5
+Feminino,39.0,35-44,Medio completo,Branca,Assembleia de Deus,Nao respondeu,Sudeste,2,5
+Feminino,51.0,45-59,Superior completo,Branca,Assembleia de Deus,5 a 10 salarios minimos,Sudeste,1,1
+Feminino,19.0,18-24,Medio completo,Parda,Outras Evangelicas,Nao respondeu,Sudeste,2,2
+Feminino,61.0,60+,Fundamental incompleto,Parda,Catolica,Ate 1 salario minimo,Sudeste,1,1
+Feminino,35.0,35-44,Medio completo,Parda,"Ateu, sem religiao",2 a 5 salarios minimos,Sudeste,2,4
+Feminino,50.0,45-59,Superior incompleto,Branca,Evangelica nao especificada,Nao respondeu,Sudeste,1,1
+Feminino,52.0,45-59,Superior completo,Parda,Catolica,1 a 2 salarios minimos,Sudeste,1,1
+Feminino,32.0,25-34,Superior incompleto,Branca,Religioso sem religiao especifica/Agnostico,2 a 5 salarios minimos,Sudeste,2,1
+Feminino,40.0,35-44,Superior incompleto,Parda,Outras Evangelicas,5 a 10 salarios minimos,Sudeste,1,5
+Feminino,63.0,60+,Medio completo,Preta,Catolica,Ate 1 salario minimo,Sudeste,4,4
+Feminino,45.0,45-59,Medio completo,Preta,Testemunha de Jeova,2 a 5 salarios minimos,Sudeste,1,2
+Feminino,22.0,18-24,Fundamental completo,Branca,Catolica,5 a 10 salarios minimos,Sudeste,2,2
+Feminino,64.0,60+,Fundamental incompleto,Parda,Catolica,Ate 1 salario minimo,Sudeste,2,1
+Feminino,31.0,25-34,Medio completo,Branca,Evangelica nao especificada,2 a 5 salarios minimos,Sudeste,2,2
+Feminino,19.0,18-24,Fundamental incompleto,Parda,Catolica,1 a 2 salarios minimos,Sudeste,1,2
+Feminino,27.0,25-34,Medio completo,Branca,Catolica,2 a 5 salarios minimos,Sudeste,1,1
+Feminino,29.0,25-34,Medio completo,Preta,"Afro-Brasileira (Umbanda, Candomble)",1 a 2 salarios minimos,Sudeste,1,1
+Feminino,38.0,35-44,Medio completo,Parda,Outras Evangelicas,5 a 10 salarios minimos,Sudeste,1,5
+Feminino,45.0,45-59,Fundamental incompleto,Branca,Evangelica nao especificada,1 a 2 salarios minimos,Sul,5,4
+Feminino,18.0,18-24,Superior incompleto,Parda,Catolica,Nao respondeu,Sul,5,3
+Feminino,17.0,16-17,Medio completo,Branca,Catolica,2 a 5 salarios minimos,Sul,5,5
+Feminino,38.0,35-44,Superior completo,Parda,Catolica,2 a 5 salarios minimos,Sul,5,1
+Feminino,16.0,16-17,Medio incompleto,Branca,"Ateu, sem religiao",2 a 5 salarios minimos,Sul,2,1
+Feminino,52.0,45-59,Superior completo,Parda,Espirita/Kardecista,5 a 10 salarios minimos,Sul,4,5
+Feminino,48.0,45-59,Superior completo,Branca,"Ateu, sem religiao",5 a 10 salarios minimos,Sul,1,1
+Feminino,33.0,25-34,Medio completo,Branca,Catolica,1 a 2 salarios minimos,Sul,1,1
+Feminino,53.0,45-59,Fundamental incompleto,Branca,Assembleia de Deus,2 a 5 salarios minimos,Sul,2,2
+Feminino,42.0,35-44,Fundamental completo,Branca,"Ateu, sem religiao",2 a 5 salarios minimos,Sul,4,1
+Feminino,51.0,45-59,Medio completo,Branca,Catolica,2 a 5 salarios minimos,Sul,1,1
+Feminino,33.0,25-34,Medio completo,Branca,"Ateu, sem religiao",2 a 5 salarios minimos,Sul,2,1
+Feminino,67.0,60+,Fundamental incompleto,Branca,Catolica,Nao respondeu,Sul,2,1
+Feminino,70.0,60+,Fundamental incompleto,Branca,Catolica,1 a 2 salarios minimos,Sul,2,2
+Feminino,55.0,45-59,Fundamental incompleto,Branca,Catolica,1 a 2 salarios minimos,Sul,5,5
+Masculino,42.0,35-44,Medio incompleto,Parda,Outras Evangelicas,2 a 5 salarios minimos,Centro-Oeste,5,1
+Masculino,22.0,18-24,Superior completo,Parda,Catolica,2 a 5 salarios minimos,Centro-Oeste,5,1
+Masculino,43.0,35-44,Fundamental incompleto,Parda,Evangelho Quadrangular,5 a 10 salarios minimos,Centro-Oeste,1,5
+Masculino,18.0,18-24,Fundamental incompleto,Parda,Catolica,Ate 1 salario minimo,Centro-Oeste,1,5
+Masculino,34.0,25-34,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Centro-Oeste,1,1
+Masculino,31.0,25-34,Medio completo,Parda,"Ateu, sem religiao",1 a 2 salarios minimos,Centro-Oeste,2,2
+Masculino,45.0,45-59,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Centro-Oeste,2,2
+Masculino,34.0,25-34,Medio incompleto,Branca,Catolica,Ate 1 salario minimo,Nordeste,1,2
+Masculino,59.0,45-59,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Nordeste,2,1
+Masculino,32.0,25-34,Fundamental incompleto,Parda,Catolica,Ate 1 salario minimo,Nordeste,5,4
+Masculino,25.0,25-34,Superior incompleto,Parda,Religioso sem religiao especifica/Agnostico,2 a 5 salarios minimos,Nordeste,1,1
+Masculino,43.0,35-44,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Nordeste,1,1
+Masculino,59.0,45-59,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Nordeste,1,2
+Masculino,17.0,16-17,Medio incompleto,Parda,"Ateu, sem religiao",Nao respondeu,Nordeste,1,4
+Masculino,83.0,60+,Fundamental incompleto,Parda,Catolica,1 a 2 salarios minimos,Nordeste,5,4
+Masculino,35.0,35-44,Medio completo,Parda,"Ateu, sem religiao",5 a 10 salarios minimos,Nordeste,2,1
+Masculino,24.0,18-24,Medio completo,Parda,Catolica,Ate 1 salario minimo,Nordeste,5,2
+Masculino,25.0,25-34,Medio completo,Branca,Catolica,Nao respondeu,Nordeste,2,2
+Masculino,57.0,45-59,Fundamental incompleto,Branca,Catolica,Ate 1 salario minimo,Nordeste,1,1
+Masculino,26.0,25-34,Medio completo,Parda,Outras Evangelicas,1 a 2 salarios minimos,Nordeste,2,2
+Masculino,21.0,18-24,Medio completo,Branca,Assembleia de Deus,1 a 2 salarios minimos,Nordeste,2,2
+Masculino,26.0,25-34,Superior incompleto,Parda,Catolica,1 a 2 salarios minimos,Nordeste,5,5
+Masculino,61.0,60+,Medio completo,Parda,Testemunha de Jeova,2 a 5 salarios minimos,Nordeste,4,2
+Masculino,46.0,45-59,Fundamental incompleto,Parda,Catolica,Ate 1 salario minimo,Nordeste,4,2
+Masculino,45.0,45-59,Fundamental completo,Parda,Adventista,Ate 1 salario minimo,Nordeste,1,4
+Masculino,57.0,45-59,Fundamental completo,Preta,Outras Evangelicas,Nao respondeu,Nordeste,1,5
+Masculino,33.0,25-34,Medio incompleto,Parda,Batista/Metodista/Presbiteriana,Ate 1 salario minimo,Nordeste,1,2
+Masculino,41.0,35-44,Fundamental completo,Parda,Catolica,Ate 1 salario minimo,Nordeste,5,1
+Masculino,39.0,35-44,Superior incompleto,Branca,Catolica,1 a 2 salarios minimos,Nordeste,2,5
+Masculino,22.0,18-24,Fundamental completo,Parda,Assembleia de Deus,Ate 1 salario minimo,Nordeste,2,2
+Masculino,18.0,18-24,Medio incompleto,Branca,Catolica,Ate 1 salario minimo,Norte,2,2
+Masculino,24.0,18-24,Fundamental incompleto,Parda,Adventista,1 a 2 salarios minimos,Norte,3,2
+Masculino,38.0,35-44,Medio completo,Parda,"Ateu, sem religiao",1 a 2 salarios minimos,Norte,2,1
+Masculino,63.0,60+,Superior completo,Parda,Batista/Metodista/Presbiteriana,2 a 5 salarios minimos,Norte,2,4
+Masculino,35.0,35-44,Fundamental completo,Parda,Catolica,Ate 1 salario minimo,Norte,1,1
+Masculino,61.0,60+,Fundamental incompleto,Parda,Catolica,1 a 2 salarios minimos,Norte,1,1
+Masculino,34.0,25-34,Fundamental incompleto,Preta,Religioso sem religiao especifica/Agnostico,2 a 5 salarios minimos,Norte,1,1
+Masculino,28.0,25-34,Medio incompleto,Parda,Assembleia de Deus,1 a 2 salarios minimos,Norte,2,2
+Masculino,34.0,25-34,Medio completo,Parda,"Ateu, sem religiao",2 a 5 salarios minimos,Sudeste,2,4
+Masculino,39.0,35-44,Medio completo,Branca,Religioso sem religiao especifica/Agnostico,Nao respondeu,Sudeste,2,1
+Masculino,38.0,35-44,Superior completo,Branca,"Ateu, sem religiao",5 a 10 salarios minimos,Sudeste,2,5
+Masculino,21.0,18-24,Superior incompleto,Branca,Batista/Metodista/Presbiteriana,10 a 20 salarios minimos,Sudeste,4,4
+Masculino,33.0,25-34,Medio completo,Branca,Catolica,2 a 5 salarios minimos,Sudeste,2,5
+Masculino,63.0,60+,Fundamental incompleto,Branca,Catolica,1 a 2 salarios minimos,Sudeste,1,1
+Masculino,39.0,35-44,Fundamental completo,Preta,Assembleia de Deus,1 a 2 salarios minimos,Sudeste,1,5
+Masculino,62.0,60+,Medio completo,Branca,Catolica,2 a 5 salarios minimos,Sudeste,2,1
+Masculino,33.0,25-34,Medio completo,Parda,Religioso sem religiao especifica/Agnostico,2 a 5 salarios minimos,Sudeste,1,5
+Masculino,32.0,25-34,Medio completo,Parda,Catolica,5 a 10 salarios minimos,Sudeste,4,4
+Masculino,66.0,60+,Medio completo,Parda,Catolica,2 a 5 salarios minimos,Sudeste,1,4
+Masculino,51.0,45-59,Superior incompleto,Preta,Outras Evangelicas,2 a 5 salarios minimos,Sudeste,2,1
+Masculino,41.0,35-44,Medio completo,Parda,Outras Evangelicas,5 a 10 salarios minimos,Sudeste,4,2
+Masculino,70.0,60+,Fundamental incompleto,Branca,Batista/Metodista/Presbiteriana,Ate 1 salario minimo,Sudeste,1,1
+Masculino,58.0,45-59,Medio completo,Parda,Catolica,Ate 1 salario minimo,Sudeste,1,3
+Masculino,74.0,60+,Fundamental incompleto,Branca,Catolica,1 a 2 salarios minimos,Sudeste,4,4
+Masculino,53.0,45-59,Medio completo,Parda,Assembleia de Deus,1 a 2 salarios minimos,Sudeste,1,1
+Masculino,18.0,18-24,Superior incompleto,Parda,Catolica,10 a 20 salarios minimos,Sudeste,4,2
+Masculino,50.0,45-59,Fundamental incompleto,Branca,Catolica,Ate 1 salario minimo,Sudeste,1,1
+Masculino,26.0,25-34,Medio completo,Parda,Religioso sem religiao especifica/Agnostico,2 a 5 salarios minimos,Sudeste,1,5
+Masculino,61.0,60+,Fundamental incompleto,Branca,Outras Evangelicas,2 a 5 salarios minimos,Sudeste,4,1
+Masculino,42.0,35-44,Superior incompleto,Branca,Catolica,5 a 10 salarios minimos,Sudeste,5,2
+Masculino,47.0,45-59,Fundamental completo,Branca,Catolica,2 a 5 salarios minimos,Sudeste,3,2
+Masculino,28.0,25-34,Medio completo,Parda,Evangelica nao especificada,1 a 2 salarios minimos,Sudeste,2,1
+Masculino,35.0,35-44,Medio completo,Parda,Assembleia de Deus,2 a 5 salarios minimos,Sudeste,1,2
+Masculino,32.0,25-34,Medio incompleto,Preta,Assembleia de Deus,2 a 5 salarios minimos,Sudeste,1,1
+Masculino,23.0,18-24,Superior completo,Branca,Catolica,Nao respondeu,Sudeste,1,1
+Masculino,53.0,45-59,Medio completo,Branca,Assembleia de Deus,1 a 2 salarios minimos,Sudeste,5,2
+Masculino,59.0,45-59,Fundamental incompleto,Branca,Evangelica nao especificada,2 a 5 salarios minimos,Sudeste,2,5
+Masculino,26.0,25-34,Medio completo,Parda,Catolica,1 a 2 salarios minimos,Sudeste,1,4
+Masculino,40.0,35-44,Superior incompleto,Parda,"Ateu, sem religiao",Mais de 20 salarios minimos,Sudeste,4,1
+Masculino,32.0,25-34,Medio completo,Branca,Outras Evangelicas,2 a 5 salarios minimos,Sudeste,5,5
+Masculino,18.0,18-24,Medio completo,Parda,Catolica,2 a 5 salarios minimos,Sudeste,5,5
+Masculino,20.0,18-24,Fundamental completo,Branca,Religioso sem religiao especifica/Agnostico,1 a 2 salarios minimos,Sudeste,4,4
+Masculino,60.0,60+,Fundamental incompleto,Branca,Assembleia de Deus,Ate 1 salario minimo,Sudeste,2,2
+Masculino,23.0,18-24,Medio completo,Branca,Universal do Reino de Deus,2 a 5 salarios minimos,Sudeste,2,2
+Masculino,25.0,25-34,Superior completo,Branca,Catolica,Mais de 20 salarios minimos,Sudeste,2,5
+Masculino,58.0,45-59,Medio completo,Branca,Espirita/Kardecista,1 a 2 salarios minimos,Sudeste,2,3
+Masculino,23.0,18-24,Medio completo,Parda,Religioso sem religiao especifica/Agnostico,Nao respondeu,Sudeste,5,2
+Masculino,53.0,45-59,Superior incompleto,Branca,Catolica,10 a 20 salarios minimos,Sudeste,4,5
+Masculino,29.0,25-34,Fundamental completo,Parda,Igreja Internacional da Graca,1 a 2 salarios minimos,Sudeste,1,1
+Masculino,27.0,25-34,Medio completo,Branca,Outras Evangelicas,Nao respondeu,Sudeste,1,3
+Masculino,75.0,60+,Medio incompleto,Branca,Catolica,1 a 2 salarios minimos,Sul,5,1
+Masculino,44.0,35-44,Fundamental incompleto,Parda,Evangelica nao especificada,Ate 1 salario minimo,Sul,1,1
+Masculino,19.0,18-24,Fundamental incompleto,Parda,"Ateu, sem religiao",Nao respondeu,Sul,5,5
+Masculino,58.0,45-59,Fundamental incompleto,Branca,Deus e Amor,1 a 2 salarios minimos,Sul,4,1
+Masculino,29.0,25-34,Fundamental incompleto,Branca,"Ateu, sem religiao",2 a 5 salarios minimos,Sul,1,1
+Masculino,47.0,45-59,Medio completo,Indigena,"Afro-Brasileira (Umbanda, Candomble)",Ate 1 salario minimo,Sul,2,3
+Masculino,36.0,35-44,Superior incompleto,Parda,Religioso sem religiao especifica/Agnostico,10 a 20 salarios minimos,Sul,1,1
+Masculino,34.0,25-34,Medio completo,Branca,Catolica,1 a 2 salarios minimos,Sul,1,5
+Masculino,35.0,35-44,Medio completo,Branca,"Ateu, sem religiao",1 a 2 salarios minimos,Sul,1,1
+Masculino,53.0,45-59,Fundamental incompleto,Branca,Catolica,1 a 2 salarios minimos,Sul,5,1
+Masculino,24.0,18-24,Fundamental completo,Branca,Assembleia de Deus,2 a 5 salarios minimos,Sul,1,1
+Masculino,34.0,25-34,Medio completo,Branca,Catolica,2 a 5 salarios minimos,Sul,5,3
+Masculino,40.0,35-44,Superior completo,Preta,Catolica,2 a 5 salarios minimos,Sul,2,2
+Masculino,44.0,35-44,Superior incompleto,Branca,Outras religioes,2 a 5 salarios minimos,Sul,2,2
+Masculino,32.0,25-34,Superior completo,Branca,Catolica,5 a 10 salarios minimos,Sudeste,1,1
+Masculino,52.0,45-59,Fundamental incompleto,Parda,Catolica,2 a 5 salarios minimos,Norte,4,2
+Feminino,37.0,35-44,Fundamental incompleto,Branca,Catolica,Ate 1 salario minimo,Nordeste,1,2
+Feminino,59.0,45-59,Fundamental incompleto,Branca,Evangelica nao especificada,1 a 2 salarios minimos,Sudeste,1,1
+Masculino,58.0,45-59,Fundamental incompleto,Parda,Assembleia de Deus,2 a 5 salarios minimos,Nordeste,1,1

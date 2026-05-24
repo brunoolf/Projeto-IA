@@ -1,0 +1,61 @@
+{
+  "config": {
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "n_sample": 200,
+    "n_reps": 3,
+    "temperature": 0.8,
+    "seed": 42
+  },
+  "llm_metrics": {
+    "P6A": {
+      "accuracy": 0.145,
+      "mae": 2.0716666666666668,
+      "kl": 0.9582325915166132
+    },
+    "P6C": {
+      "accuracy": 0.13,
+      "mae": 2.3733333333333335,
+      "kl": 1.3007504411568045
+    }
+  },
+  "rf_metrics": {
+    "P6A": {
+      "accuracy_mean": 0.3350000000000001,
+      "accuracy_std": 0.03391164991562633,
+      "mae_mean": 1.4600000000000002,
+      "mae_std": 0.09027735042633894,
+      "kl": 0.2159717233741677
+    },
+    "P6C": {
+      "accuracy_mean": 0.43999999999999995,
+      "accuracy_std": 0.0681909084849293,
+      "mae_mean": 1.355,
+      "mae_std": 0.12288205727444507,
+      "kl": 0.2080360351555501
+    }
+  },
+  "feature_importances": {
+    "P6A": {
+      "sexo": 0.08384717097330786,
+      "faixa_idade": 0.16736247386899983,
+      "escolaridade": 0.1531780317621015,
+      "raca_cor": 0.11059433748167233,
+      "religiao": 0.19794997978522544,
+      "renda_familiar": 0.14934101665765906,
+      "regiao": 0.13772698947103407
+    },
+    "P6C": {
+      "sexo": 0.06826018041807798,
+      "faixa_idade": 0.19134029076425688,
+      "escolaridade": 0.16126549822608743,
+      "raca_cor": 0.11168949290791427,
+      "religiao": 0.18809769374850913,
+      "renda_familiar": 0.1422451368671966,
+      "regiao": 0.1371017070679577
+    }
+  },
+  "questions": {
+    "P6A": "A abordagem policial e baseada no tipo de cabelo, tipo de vestimenta e cor de pele das pessoas.",
+    "P6C": "Aumentar a representatividade de pessoas negras, mulheres e populacao LGBTQIA+ na politica e em cargos de poder contribui para diminuir as desigualdades estruturais."
+  }
+}
