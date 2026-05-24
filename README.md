@@ -6,6 +6,17 @@ Projeto final da disciplina **Inteligência Artificial — 1º Semestre 2026 (7G
 
 **Bruno Ferrão** — RA `10401081`
 
+## Entregáveis
+
+| Item | Caminho |
+|---|---|
+| Artigo (PDF, layout SBC) | [artigo/artigo.pdf](artigo/artigo.pdf) |
+| Notebook executável | [notebook/simulacao.ipynb](notebook/simulacao.ipynb) |
+| Dados originais da pesquisa CESOP/IPEC 04839 | [data/raw/](data/raw/) |
+| Predições do LLM e métricas | [data/](data/) |
+| Gráficos | [figs/](figs/) |
+| Vídeo da apresentação (YouTube) | [youtu.be/y5dbSnP9GEg](https://youtu.be/y5dbSnP9GEg) |
+
 ## O que é
 
 Peguei a pesquisa do CESOP/IPEC sobre como o brasileiro enxerga desigualdade (2.000 entrevistas presenciais feitas pelo IPEC em julho de 2023) e tentei reproduzir as respostas de uma amostra de 200 pessoas usando um LLM aberto pequeno, o Qwen 2.5 0.5B Instruct. Em seguida treinei um Random Forest com as mesmas variáveis sociodemográficas pra ter um termo de comparação. A ideia era ver até onde um modelo de meio bilhão de parâmetros, rodando em CPU, consegue simular opinião pública brasileira sobre temas sensíveis.
@@ -86,10 +97,6 @@ Tempo de execução em CPU Intel típica: 10 a 15 minutos no total. Em Colab gra
 │   └── exemplo_prompt.txt     prompt completo gerado para o LLM
 └── figs/                      gráficos gerados pelo notebook
 ```
-
-## Apresentação em vídeo
-
-https://youtu.be/y5dbSnP9GEg
 
 ## Referências principais
 
